@@ -1,10 +1,10 @@
 ## Table of contents
-- [Introduction to templates](https://github.com/qingqingqingli/CPP/wiki/Module07#introduction-to-templates)
-- [From C - parametric macros](https://github.com/qingqingqingli/CPP/wiki/Module07#from-c---parametric-macros)
-- [Templates](https://github.com/qingqingqingli/CPP/wiki/Module07#templates)
-- [Default types](https://github.com/qingqingqingli/CPP/wiki/Module07#default-types)
-- [Template specialization](https://github.com/qingqingqingli/CPP/wiki/Module07#template-specialization)
-- [Resources](https://github.com/qingqingqingli/CPP/wiki/Module07#resources)
+- [Introduction to templates](https://github.com/mde-rosa/CPP_Study/tree/main/D07#introduction-to-templates)
+- [From C - parametric macros](https://github.com/mde-rosa/CPP_Study/tree/main/D07#from-c---parametric-macros)
+- [Templates](https://github.com/mde-rosa/CPP_Study/tree/main/D07#templates)
+- [Default types](https://github.com/mde-rosa/CPP_Study/tree/main/D07#default-types)
+- [Template specialization](https://github.com/mde-rosa/CPP_Study/tree/main/D07#template-specialization)
+- [Resources](https://github.com/mde-rosa/CPP_Study/tree/main/D07#resources)
 
 ### introduction to templates
 
@@ -23,7 +23,7 @@
 
 - A class template is a ```parameterized``` type - a recipe for creating a family of class types, using one or more parameters. It is not a class, but just a recipe for creating classes, because this is the reason for many of the constraints on how you define class templates.
 
-[![class_template](https://github.com/qingqingqingli/CPP/blob/main/images/class_template.png)](https://github.com/qingqingqingli/CPP/wiki/Module07)
+[![class_template](https://github.com/qingqingqingli/CPP/blob/main/images/class_template.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D07)
 
 - There are many applications for class templates but they are perhaps most commonly used to define **container classes**. These are classes that can contain sets of objects of a given type, organized in a particular way. In a container class the organization of the data is independent of the type of objects stored.
 

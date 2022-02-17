@@ -1,19 +1,19 @@
 ## Table of content
 
-- [Introduction](https://github.com/qingqingqingli/CPP/wiki/Module06#introduction)
-- [From C type conversion](https://github.com/qingqingqingli/CPP/wiki/Module06#from-c-type-conversion)
-- [From C type reinterpretation](https://github.com/qingqingqingli/CPP/wiki/Module06#from-c-type-reinterpretation)
-- [From C type qualifier reinterpretation](https://github.com/qingqingqingli/CPP/wiki/Module06#from-c-type-qualifier-reinterpretation)
-- [Upcast & downcast](https://github.com/qingqingqingli/CPP/wiki/Module06#upcast--downcast)
-- [1st C++ cast: static_cast](https://github.com/qingqingqingli/CPP/wiki/Module06#1st-c-cast-static_cast)
-- [2nd C++ cast: dynamic_cast](https://github.com/qingqingqingli/CPP/wiki/Module06#2nd-c-cast-dynamic_cast)
-- [3rd C++ cast: reinterpret_cast](https://github.com/qingqingqingli/CPP/wiki/Module06#3rd-c-cast-reinterpret_cast)
-- [4th C++ cast: const_cast](https://github.com/qingqingqingli/CPP/wiki/Module06#4th-c-cast-const_cast)
-- [Type cast operators](https://github.com/qingqingqingli/CPP/wiki/Module06#type-cast-operators)
-- [Explicit keyword](https://github.com/qingqingqingli/CPP/wiki/Module06#explicit-keyword)
-- [Converting between pointers to class objects](https://github.com/qingqingqingli/CPP/wiki/Module06#converting-between-pointers-to-class-objects)
-- [The need for virtual destructors](https://github.com/qingqingqingli/CPP/wiki/Module06#the-need-for-virtual-destructors)
-- [Resources](https://github.com/qingqingqingli/CPP/wiki/Module06#resources)
+- [Introduction](https://github.com/mde-rosa/CPP_Study/tree/main/D06#introduction)
+- [From C type conversion](https://github.com/mde-rosa/CPP_Study/tree/main/D06#from-c-type-conversion)
+- [From C type reinterpretation](https://github.com/mde-rosa/CPP_Study/tree/main/D06#from-c-type-reinterpretation)
+- [From C type qualifier reinterpretation](https://github.com/mde-rosa/CPP_Study/tree/main/D06#from-c-type-qualifier-reinterpretation)
+- [Upcast & downcast](https://github.com/mde-rosa/CPP_Study/tree/main/D06#upcast--downcast)
+- [1st C++ cast: static_cast](https://github.com/mde-rosa/CPP_Study/tree/main/D06#1st-c-cast-static_cast)
+- [2nd C++ cast: dynamic_cast](https://github.com/mde-rosa/CPP_Study/tree/main/D06#2nd-c-cast-dynamic_cast)
+- [3rd C++ cast: reinterpret_cast](https://github.com/mde-rosa/CPP_Study/tree/main/D06#3rd-c-cast-reinterpret_cast)
+- [4th C++ cast: const_cast](https://github.com/mde-rosa/CPP_Study/tree/main/D06#4th-c-cast-const_cast)
+- [Type cast operators](https://github.com/mde-rosa/CPP_Study/tree/main/D06#type-cast-operators)
+- [Explicit keyword](https://github.com/mde-rosa/CPP_Study/tree/main/D06#explicit-keyword)
+- [Converting between pointers to class objects](https://github.com/mde-rosa/CPP_Study/tree/main/D06#converting-between-pointers-to-class-objects)
+- [The need for virtual destructors](https://github.com/mde-rosa/CPP_Study/tree/main/D06#the-need-for-virtual-destructors)
+- [Resources](https://github.com/mde-rosa/CPP_Study/tree/main/D06#resources)
 
 ### Introduction
 
@@ -82,7 +82,7 @@ int main(void)
 ```
 > conversion hierarchy
 
-[![Arithmetic_conversion_hierarchy](https://github.com/qingqingqingli/CPP/blob/main/images/Arithmetic_conversion_hierarchy.png)](https://github.com/qingqingqingli/CPP/wiki/Module06)
+[![Arithmetic_conversion_hierarchy](https://github.com/qingqingqingli/CPP/blob/main/images/Arithmetic_conversion_hierarchy.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D06)
 
 
 ### From C type reinterpretation

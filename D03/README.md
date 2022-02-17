@@ -1,11 +1,11 @@
 ## Table of content
-- [inheritance introduction](https://github.com/qingqingqingli/CPP/wiki/Module03#inheritance-introduction)
-- [inheritance in classes](https://github.com/qingqingqingli/CPP/wiki/Module03#inheritance-in-classes)
-- ["is a" test and "has a" test](https://github.com/qingqingqingli/CPP/wiki/Module03#is-a-test-and-has-a-test)
-- [access specifier (base class & class members)](https://github.com/qingqingqingli/CPP/wiki/Module03#access-specifier-base-class--class-members)
-- [multiple inheritance](https://github.com/qingqingqingli/CPP/wiki/Module03#multiple-inheritance)
-- [The diamond problem](https://github.com/qingqingqingli/CPP/wiki/Module03#the-diamond-problem)
-- [Resources](https://github.com/qingqingqingli/CPP/wiki/Module03#resources)
+- [inheritance introduction](https://github.com/mde-rosa/CPP_Study/tree/main/D03#inheritance-introduction)
+- [inheritance in classes](https://github.com/mde-rosa/CPP_Study/tree/main/D03#inheritance-in-classes)
+- ["is a" test and "has a" test](https://github.com/mde-rosa/CPP_Study/tree/main/D03#is-a-test-and-has-a-test)
+- [access specifier (base class & class members)](https://github.com/mde-rosa/CPP_Study/tree/main/D03#access-specifier-base-class--class-members)
+- [multiple inheritance](https://github.com/mde-rosa/CPP_Study/tree/main/D03#multiple-inheritance)
+- [The diamond problem](https://github.com/mde-rosa/CPP_Study/tree/main/D03#the-diamond-problem)
+- [Resources](https://github.com/mde-rosa/CPP_Study/tree/main/D03#resources)
 
 
 ### inheritance introduction
@@ -68,7 +68,7 @@ public:
 
 > base class and derived class
 
-[![derived_class](https://github.com/qingqingqingli/CPP/blob/main/images/derived_class.png)](https://github.com/qingqingqingli/CPP/wiki/Module03)
+[![derived_class](https://github.com/qingqingqingli/CPP/blob/main/images/derived_class.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D03)
 
 ### "is a" test and "has a" test
 
@@ -104,7 +104,7 @@ public:
 
 > Effect of the base class specifier on the accessibility of inherited members
 
-[![access_specifier](https://github.com/qingqingqingli/CPP/blob/main/images/access_specifier.png)](https://github.com/qingqingqingli/CPP/wiki/Module03)
+[![access_specifier](https://github.com/qingqingqingli/CPP/blob/main/images/access_specifier.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D03)
 
 - In summary, you need to consider two aspects when defining a hierarchy of classes: **the access specifiers for the members of each class**, and **the base class access specifier in each derived class**
 
@@ -114,7 +114,7 @@ public:
 
 > An example of multiple inheritance
 
-[![multiple_inheirtance](https://github.com/qingqingqingli/CPP/blob/main/images/multiple_inheritance.png)](https://github.com/qingqingqingli/CPP/wiki/Module03)
+[![multiple_inheirtance](https://github.com/qingqingqingli/CPP/blob/main/images/multiple_inheritance.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D03)
 
 ```C++
 class CerealPack : public Carton, public Contents
@@ -137,11 +137,11 @@ class CerealPack : public Carton, public Contents
 
 - The solution to this problem is ‘virtual’ keyword. We make the classes ‘Faculty’ and ‘Student’ as virtual base classes to avoid two copies of ‘Person’ in ‘TA’ class.
 
-[![diamond_problem](https://github.com/qingqingqingli/CPP/blob/main/images/diamond_problem.png)](https://github.com/qingqingqingli/CPP/wiki/Module03)
+[![diamond_problem](https://github.com/qingqingqingli/CPP/blob/main/images/diamond_problem.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D03)
 
 - How does virtual solve the diamond problem? Virtual inheritance means that there will be only 1 instance of the base A class not 2. ([source](https://stackoverflow.com/questions/2659116/how-does-virtual-inheritance-solve-the-diamond-multiple-inheritance-ambiguit))
 
-[![virtual](https://github.com/qingqingqingli/CPP/blob/main/images/virtual.png)](https://github.com/qingqingqingli/CPP/wiki/Module03)
+[![virtual](https://github.com/qingqingqingli/CPP/blob/main/images/virtual.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D03)
 
 ---
 ### resources

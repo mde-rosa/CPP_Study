@@ -1,10 +1,10 @@
 ## Table of content
-- [Ad-hoc polymorphism / function overload](https://github.com/qingqingqingli/CPP/wiki/module02#ad-hoc-polymorphism-function-overloading)
-- [Operators overload](https://github.com/qingqingqingli/CPP/wiki/module02#operator-overload)
-- [Canonical classes](https://github.com/qingqingqingli/CPP/wiki/module02#canonical-form)
-- [Copy constructor](https://github.com/qingqingqingli/CPP/wiki/module02#copy-constructor)
-- [Fixed point numbers](https://github.com/qingqingqingli/CPP/wiki/module02#fixed-point-numbers)
-- [Resources](https://github.com/qingqingqingli/CPP/wiki/Module02#resources)
+- [Ad-hoc polymorphism / function overload](https://github.com/mde-rosa/CPP_Study/tree/main/D02#ad-hoc-polymorphism-function-overloading)
+- [Operators overload](https://github.com/mde-rosa/CPP_Study/tree/main/D02#operator-overload)
+- [Canonical classes](https://github.com/mde-rosa/CPP_Study/tree/main/D02#canonical-form)
+- [Copy constructor](https://github.com/mde-rosa/CPP_Study/tree/main/D02#copy-constructor)
+- [Fixed point numbers](https://github.com/mde-rosa/CPP_Study/tree/main/D02#fixed-point-numbers)
+- [Resources](https://github.com/mde-rosa/CPP_Study/tree/main/D02#resources)
 
 ### Ad-hoc polymorphism / function overload
 - Function overloading is a C++ principle, which allows you to **define many functions having the same name, but accepting different parameters**
@@ -95,7 +95,7 @@ Destructor called
     * Bitwise operators
 
 * Operators overview
-    [![overview operators](https://github.com/qingqingqingli/CPP/blob/main/images/overview_operators.png)](https://github.com/qingqingqingli/CPP/wiki/Module02)
+    [![overview operators](https://github.com/qingqingqingli/CPP/blob/main/images/overview_operators.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D02)
 
 * Operator overloading allows you to define or change the behaviour of an operator in your program. Operators are essentially just functions
 

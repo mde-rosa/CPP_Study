@@ -1,14 +1,14 @@
 ## Table of contents
-- [Intro to STL containers](https://github.com/qingqingqingli/CPP/wiki/module08#intro-to-stl-containers)
-- [STL containers overview](https://github.com/qingqingqingli/CPP/wiki/module08#stl-containers-overview)
-- [std::vector](https://github.com/qingqingqingli/CPP/wiki/module08#stdvector)
-- [std::list](https://github.com/qingqingqingli/CPP/wiki/module08#stdlist)
-- [std::map](https://github.com/qingqingqingli/CPP/wiki/module08#stdmap)
-- [std::stack](https://github.com/qingqingqingli/CPP/wiki/module08#stdstack)
-- [Iterators](https://github.com/qingqingqingli/CPP/wiki/module08#iterators)
-- [Iterator adapters](https://github.com/qingqingqingli/CPP/wiki/module08#iterator-adapters)
-- [Algorithms](https://github.com/qingqingqingli/CPP/wiki/module08#algorithms)
-- [Resources](https://github.com/qingqingqingli/CPP/wiki/module08#resources)
+- [Intro to STL containers](https://github.com/mde-rosa/CPP_Study/tree/main/D08#intro-to-stl-containers)
+- [STL containers overview](https://github.com/mde-rosa/CPP_Study/tree/main/D08#stl-containers-overview)
+- [std::vector](https://github.com/mde-rosa/CPP_Study/tree/main/D08#stdvector)
+- [std::list](https://github.com/mde-rosa/CPP_Study/tree/main/D08#stdlist)
+- [std::map](https://github.com/mde-rosa/CPP_Study/tree/main/D08#stdmap)
+- [std::stack](https://github.com/mde-rosa/CPP_Study/tree/main/D08#stdstack)
+- [Iterators](https://github.com/mde-rosa/CPP_Study/tree/main/D08#iterators)
+- [Iterator adapters](https://github.com/mde-rosa/CPP_Study/tree/main/D08#iterator-adapters)
+- [Algorithms](https://github.com/mde-rosa/CPP_Study/tree/main/D08#algorithms)
+- [Resources](https://github.com/mde-rosa/CPP_Study/tree/main/D08#resources)
 
 ### Intro to STL containers
 
@@ -59,11 +59,11 @@ int main()
 
 > overview of STL
 
-[![STL_overview](https://github.com/qingqingqingli/CPP/blob/main/images/STL_overview.png)](https://github.com/qingqingqingli/CPP/wiki/Module08)
+[![STL_overview](https://github.com/qingqingqingli/CPP/blob/main/images/STL_overview.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D08)
 
 > abstraction of STL
 
-[![STL_abstraction](https://github.com/qingqingqingli/CPP/blob/main/images/STL_abstraction.png)](https://github.com/qingqingqingli/CPP/wiki/Module08)
+[![STL_abstraction](https://github.com/qingqingqingli/CPP/blob/main/images/STL_abstraction.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D08)
 
 ### STL containers overview
 
