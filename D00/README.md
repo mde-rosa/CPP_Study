@@ -1,22 +1,22 @@
 ## Table of content
 
-- [namespaces](https://github.com/qingqingqingli/CPP/wiki/Module00#namespaces)
-- [stdio streams](https://github.com/qingqingqingli/CPP/wiki/Module00#stdio-streams)
-- [class & instance](https://github.com/qingqingqingli/CPP/wiki/Module00#class--instance)
-- [member attributes & functions](https://github.com/qingqingqingli/CPP/wiki/Module00#member-attributes--functions)
-- [this pointer](https://github.com/qingqingqingli/CPP/wiki/Module00#this-pointer-the-self-keyword)
-- [initialization list](https://github.com/qingqingqingli/CPP/wiki/Module00#initialization-list)
-- [const](https://github.com/qingqingqingli/CPP/wiki/Module00#const)
-- [visibility](https://github.com/qingqingqingli/CPP/wiki/Module00#visibility)
-- [encapsulation](https://github.com/qingqingqingli/CPP/wiki/Module00#encapsulation)
-- [class vs struct](https://github.com/qingqingqingli/CPP/wiki/Module00#class-vs-struct)
-- [accessors / getters](https://github.com/qingqingqingli/CPP/wiki/Module00#accessors-getters)
-- [structural vs. physical comparison](https://github.com/qingqingqingli/CPP/wiki/Module00#structural-vs-physical-comparison)
-- [non member attributes & functions](https://github.com/qingqingqingli/CPP/wiki/Module00#non-member-attributes--functions)
-- [pointers to members](https://github.com/qingqingqingli/CPP/wiki/Module00#pointers-to-members)
-- [C++ string](https://github.com/qingqingqingli/CPP/wiki/Module00#c-strings)
-- [difference between std::cin and getline](https://github.com/qingqingqingli/CPP/wiki/Module00#difference-between-stdcin-and-getline)
-- [static attributes & functions within a class](https://github.com/qingqingqingli/CPP/wiki/Module00#static-attributes-and-functions-within-a-class)
+- [namespaces](https://github.com/mde-rosa/CPP_Study/tree/main/D00#namespaces)
+- [stdio streams](https://github.com/mde-rosa/CPP_Study/tree/main/D00#stdio-streams)
+- [class & instance](https://github.com/mde-rosa/CPP_Study/tree/main/D00#class--instance)
+- [member attributes & functions](https://github.com/mde-rosa/CPP_Study/tree/main/D00#member-attributes--functions)
+- [this pointer](https://github.com/mde-rosa/CPP_Study/tree/main/D00#this-pointer-the-self-keyword)
+- [initialization list](https://github.com/mde-rosa/CPP_Study/tree/main/D00#initialization-list)
+- [const](https://github.com/mde-rosa/CPP_Study/tree/main/D00#const)
+- [visibility](https://github.com/mde-rosa/CPP_Study/tree/main/D00#visibility)
+- [encapsulation](https://github.com/mde-rosa/CPP_Study/tree/main/D00#encapsulation)
+- [class vs struct](https://github.com/mde-rosa/CPP_Study/tree/main/D00#class-vs-struct)
+- [accessors / getters](https://github.com/mde-rosa/CPP_Study/tree/main/D00#accessors-getters)
+- [structural vs. physical comparison](https://github.com/mde-rosa/CPP_Study/tree/main/D00#structural-vs-physical-comparison)
+- [non member attributes & functions](https://github.com/mde-rosa/CPP_Study/tree/main/D00#non-member-attributes--functions)
+- [pointers to members](https://github.com/mde-rosa/CPP_Study/tree/main/D00#pointers-to-members)
+- [C++ string](https://github.com/mde-rosa/CPP_Study/tree/main/D00#c-strings)
+- [difference between std::cin and getline](https://github.com/mde-rosa/CPP_Study/tree/main/D00#difference-between-stdcin-and-getline)
+- [static attributes & functions within a class](https://github.com/mde-rosa/CPP_Study/tree/main/D00#static-attributes-and-functions-within-a-class)
 
 ### namespaces
 
@@ -195,7 +195,7 @@ Destructor called
 
 > An example of class and member functions ([source link](https://www.tutorialspoint.com/cplusplus/cpp_class_member_functions.htm))
 
-[![member_function](https://github.com/qingqingqingli/CPP/blob/main/images/member_function.png)](https://github.com/qingqingqingli/CPP/wiki/Module00)
+[![member_function](https://github.com/qingqingqingli/CPP/blob/main/images/member_function.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D00)
 
 ### this pointer (the self keyword)
 
@@ -578,7 +578,7 @@ Destructor called
 
 > An illustration of encapsulation ([source link](https://www.geeksforgeeks.org/encapsulation-in-c/))
 
-[![encapsulation](https://github.com/qingqingqingli/CPP/blob/main/images/encapsulation.png)](https://github.com/qingqingqingli/CPP/wiki/Module00)
+[![encapsulation](https://github.com/qingqingqingli/CPP/blob/main/images/encapsulation.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D00)
 
 ### class vs struct
 
@@ -707,7 +707,7 @@ Destructor called
 
 > Below is an illustration ([source link](https://www.cs.umd.edu/class/fall2015/cmsc330/lectures/Ruby1.pdf)):
 
-[![equality](https://github.com/qingqingqingli/CPP/blob/main/images/equality.png)](https://github.com/qingqingqingli/CPP/wiki/Module00)
+[![equality](https://github.com/qingqingqingli/CPP/blob/main/images/equality.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D00)
 
 > Example of comparison
 
