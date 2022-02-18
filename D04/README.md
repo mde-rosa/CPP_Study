@@ -1,17 +1,17 @@
 ## Table of contents
-- [sub-typing polymorphism](https://github.com/qingqingqingli/CPP/wiki/module04#sub-typing-polymorphism)
-- [abstract classes](https://github.com/qingqingqingli/CPP/wiki/module04#abstract-classes)
-- [operator overload](https://github.com/qingqingqingli/CPP/wiki/module04#operator-overloading)
-- [polymorphism](https://github.com/qingqingqingli/CPP/wiki/module04#polymorphism-%E5%A4%9A%E6%80%81)
-- [virtual functions](https://github.com/qingqingqingli/CPP/wiki/module04#virtual-functions-virtual-keyword)
-- [interface & pure virtual functions](https://github.com/qingqingqingli/CPP/wiki/module04#interface--pure-virtual-functions-virtual-keyword---0)
-- [shallow vs deep Copies](https://github.com/qingqingqingli/CPP/wiki/module04#shallow-vs-deep-copies)
-- [copy constructor](https://github.com/qingqingqingli/CPP/wiki/module04#copy-constructor)
-- [coplien form](https://github.com/qingqingqingli/CPP/wiki/Module04#coplien-form)
-- [virtual member function](https://github.com/qingqingqingli/CPP/wiki/Module04#virtual-member-function)
-- [virtual destructor](https://github.com/qingqingqingli/CPP/wiki/Module04#virtual-destructor)
-- [label virtual](https://github.com/qingqingqingli/CPP/wiki/Module04#label-virtual)
-- [resources](https://github.com/qingqingqingli/CPP/wiki/module04#resources)
+- [sub-typing polymorphism](https://github.com/mde-rosa/CPP_Study/tree/main/D04#sub-typing-polymorphism)
+- [abstract classes](https://github.com/mde-rosa/CPP_Study/tree/main/D04#abstract-classes)
+- [operator overload](https://github.com/mde-rosa/CPP_Study/tree/main/D04#operator-overloading)
+- [polymorphism](https://github.com/mde-rosa/CPP_Study/tree/main/D04#polymorphism-%E5%A4%9A%E6%80%81)
+- [virtual functions](https://github.com/mde-rosa/CPP_Study/tree/main/D04#virtual-functions-virtual-keyword)
+- [interface & pure virtual functions](https://github.com/mde-rosa/CPP_Study/tree/main/D04#interface--pure-virtual-functions-virtual-keyword---0)
+- [shallow vs deep Copies](https://github.com/mde-rosa/CPP_Study/tree/main/D04#shallow-vs-deep-copies)
+- [copy constructor](https://github.com/mde-rosa/CPP_Study/tree/main/D04#copy-constructor)
+- [coplien form](https://github.com/mde-rosa/CPP_Study/tree/main/D04#coplien-form)
+- [virtual member function](https://github.com/mde-rosa/CPP_Study/tree/main/D04#virtual-member-function)
+- [virtual destructor](https://github.com/mde-rosa/CPP_Study/tree/main/D04#virtual-destructor)
+- [label virtual](https://github.com/mde-rosa/CPP_Study/tree/main/D04#label-virtual)
+- [resources](https://github.com/mde-rosa/CPP_Study/tree/main/D04#resources)
 
 
 
@@ -254,7 +254,7 @@ There are three ways to define operator overloading:
     - Compile time polymorphism (early binding / static polymorphism) - static in nature
     - Runtime polymorphism (late binding / dynamic polymorphism)
 
-[![polymorphism](https://github.com/qingqingqingli/CPP/blob/main/images/polymorphism.png)](https://github.com/qingqingqingli/CPP/wiki/Module04)
+[![polymorphism](https://github.com/qingqingqingli/CPP/blob/main/images/polymorphism.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D04)
 
 ### Virtual functions (virtual keyword)
 
@@ -263,7 +263,7 @@ There are three ways to define operator overloading:
   - Additional memory is required to store the V table, which allows us to dispatch to the correct function
   - Every time when we call a virtual function, we need to go through the V table to determine which function to map to use
 
-[![virtual functions](https://github.com/qingqingqingli/CPP/blob/main/images/virtual_functions.png)](https://github.com/qingqingqingli/CPP/wiki/Module04)
+[![virtual functions](https://github.com/qingqingqingli/CPP/blob/main/images/virtual_functions.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D04)
 
 
 ### Interface & pure virtual functions (virtual keyword + "= 0")

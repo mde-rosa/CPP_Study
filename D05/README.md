@@ -1,11 +1,11 @@
 ## Table of contents
-- [Nested classes](https://github.com/qingqingqingli/CPP/wiki/Module05#nested-classes)
-- [Exceptions](https://github.com/qingqingqingli/CPP/wiki/Module05#exceptions)
-- [Unhandled exceptions](https://github.com/qingqingqingli/CPP/wiki/Module05#unhandled-exceptions)
-- [Code that causes an exeception to be thrown](https://github.com/qingqingqingli/CPP/wiki/Module05#code-that-causes-an-exeception-to-be-thrown)
-- [Nested try blocks](https://github.com/qingqingqingli/CPP/wiki/Module05#nested-try-blocks)
-- [Add custom exception class](https://github.com/qingqingqingli/CPP/wiki/Module05#add-custom-exception-class)
-- [resources](https://github.com/qingqingqingli/CPP/wiki/Module05#resources)
+- [Nested classes](https://github.com/mde-rosa/CPP_Study/tree/main/D05#nested-classes)
+- [Exceptions](https://github.com/mde-rosa/CPP_Study/tree/main/D05#exceptions)
+- [Unhandled exceptions](https://github.com/mde-rosa/CPP_Study/tree/main/D05#unhandled-exceptions)
+- [Code that causes an exeception to be thrown](https://github.com/mde-rosa/CPP_Study/tree/main/D05#code-that-causes-an-exeception-to-be-thrown)
+- [Nested try blocks](https://github.com/mde-rosa/CPP_Study/tree/main/D05#nested-try-blocks)
+- [Add custom exception class](https://github.com/mde-rosa/CPP_Study/tree/main/D05#add-custom-exception-class)
+- [resources](https://github.com/mde-rosa/CPP_Study/tree/main/D05#resources)
 
 ### Nested classes
 
@@ -144,7 +144,7 @@ std::exit(1);
 }
 ```
 
-[![exception](https://github.com/qingqingqingli/CPP/blob/main/images/unhandled_exception.png)](https://github.com/qingqingqingli/CPP/wiki/Module05)
+[![exception](https://github.com/qingqingqingli/CPP/blob/main/images/unhandled_exception.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D05)
 
 ### Code that causes an exeception to be thrown
 
@@ -156,7 +156,7 @@ std::exit(1);
 
 - You can nest a try block inside another try block. Each try block has its own set of catch blocks to handle exceptions that may be thrown within it, and the catch blocks for a try block are only invoked for exceptions thrown within that try block.
 
-[![nested_try_blocks](https://github.com/qingqingqingli/CPP/blob/main/images/nested_try_blocks.png)](https://github.com/qingqingqingli/CPP/wiki/Module05)
+[![nested_try_blocks](https://github.com/qingqingqingli/CPP/blob/main/images/nested_try_blocks.png)](https://github.com/mde-rosa/CPP_Study/tree/main/D05)
 
 ### Add custom exception class
 
